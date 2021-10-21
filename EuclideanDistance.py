@@ -3,3 +3,4 @@ data = pd.read_csv('C:\\Users\\Goostav\\Documents\\Python\\Продажи CSV\\N
 
 print()
 print()
+print()
